@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-jj" alt="mohamed-jj" /></a> </p>
 
-- 🔭 I’m currently working on ft_transcendance [link to the subject](https://abdelmathin.github.io/42attachments/subjects/en/42subjects-ft_transcendence.pdf)
+- 🔭 I’m currently working on ft_transcendance [link to the subject](https://abdelmathin.github.io/42attachments/subjects/en/42subjects-ft_transcendence.pdf), and on my portfolio
 
-- 🌱 I’m currently learning **some front-end and back-end technologies**
+- 🌱 I’m currently learning **devops technologies and methodologies**
+
+- good experience with nodejs, nextjs/reactjs, nestJs, api integration, restful api, database manipulation, orm (object relational mapping), etc....
 
 - 💬 Ask me about **anything**
 
