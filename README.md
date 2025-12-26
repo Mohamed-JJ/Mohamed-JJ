@@ -1,33 +1,95 @@
-<h1 align="center">Hi 👋, I'm mohamed jarboua</h1>
-<h3 align="center">software engineering student at 1337</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Jarboua</h1>
+<h3 align="center">
+Software Engineering Student @ 1337 (42 Network) <br/>
+Backend & DevOps Enthusiast
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-jj&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-jj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-jj" alt="mohamed-jj" /></a> </p>
-
-- 🔭 I’m currently working on ft_transcendance [link to the subject](https://abdelmathin.github.io/42attachments/subjects/en/42subjects-ft_transcendence.pdf), and on my portfolio
-
-- 🌱 I’m currently learning **devops technologies and methodologies**
-
-- good experience with nodejs, nextjs/reactjs, nestJs, api integration, restful api, database manipulation, orm (object relational mapping), etc....
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **simojarboue24@gmail.com**
-
-- ⚡ Fun fact **caffeine makes me sleepy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/unholy_dolphin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/unholy_dolphin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohamed-jarboua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mohamed-jarboua-8a8657223" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohmamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohmamed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-jarboua" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:simojarboue24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dophin.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-jj&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-jj&show_icons=true&locale=en&layout=compact" alt="mohamed-jj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-jj&show_icons=true&locale=en" alt="mohamed-jj" /></p>
+## 🚀 About Me
 
+- 🎓 **Software Engineering Student** at **1337 (42 Network)**
+- 💻 Focused on **Backend Engineering & DevOps**
+- 🌍 Open to **freelance** and **remote international opportunities**
+- 🔧 Passionate about **scalable systems, automation, and cloud-native architectures**
+- ☕ Fun fact: *caffeine makes me sleepy*
+
+---
+
+## 🔭 Current Work
+
+- **ft_transcendence**
+  - Backend development with **Node.js**
+  - **WebSockets** for real-time communication
+  - API design and server-side logic
+- Building and refining my **personal portfolio**
+- Improving my **DevOps skill set** through hands-on practice
+
+---
+
+## 🌱 Currently Learning & Practicing
+
+- Docker & **Docker Compose**
+- **CI/CD pipelines**
+- **Infrastructure as Code (Terraform)**
+- **Cloud deployments (AWS)**
+- **Kubernetes**
+- Linux system administration & Nginx
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- **Node.js**, RESTful APIs
+- WebSockets
+- API integration & server-side architecture
+
+### DevOps & Cloud
+- **Docker**, Docker Compose
+- **Kubernetes**
+- **CI/CD**
+- **AWS**
+- **Terraform**
+- **Nginx**
+- Linux
+
+### Databases
+- MongoDB
+- MySQL
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: **simojarboue24@gmail.com**
+- 💼 LinkedIn: [Mohamed Jarboua](https://www.linkedin.com/in/mohamed-jarboua)
+- 🌐 Portfolio: **https://dophin.tech**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-jj&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-jj&show_icons=true&locale=en" alt="github stats" />
+</p>
