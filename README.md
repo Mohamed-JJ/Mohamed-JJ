@@ -44,8 +44,8 @@ Backend & DevOps Enthusiast
 
 - **Cloud deployments (AWS)**
 - **Kubernetes**
-- observability with ** Graphana & Prometheus **
-- visualisation with ** ELK stack **
+- observability with **Graphana & Prometheus**
+- visualisation with **ELK stack**
 
 ---
 
