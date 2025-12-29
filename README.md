@@ -34,32 +34,29 @@ Backend & DevOps Enthusiast
 
 ## 🔭 Current Work
 
-- **ft_transcendence**
-  - Backend development with **Node.js**
-  - **WebSockets** for real-time communication
-  - API design and server-side logic
 - Building and refining my **personal portfolio**
 - Improving my **DevOps skill set** through hands-on practice
+- continuos learning
 
 ---
 
 ## 🌱 Currently Learning & Practicing
 
-- Docker & **Docker Compose**
-- **CI/CD pipelines**
-- **Infrastructure as Code (Terraform)**
 - **Cloud deployments (AWS)**
 - **Kubernetes**
-- Linux system administration & Nginx
+- observability with ** Graphana & Prometheus **
+- visualisation with ** ELK stack **
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-- **Node.js**, RESTful APIs
+- **Node.js**, RESTful APIs (Express, NestJs)
 - WebSockets
 - API integration & server-side architecture
+- microservices
+- message brokers (kafka)
 
 ### DevOps & Cloud
 - **Docker**, Docker Compose
@@ -68,7 +65,7 @@ Backend & DevOps Enthusiast
 - **AWS**
 - **Terraform**
 - **Nginx**
-- Linux
+- **Linux**
 
 ### Databases
 - MongoDB
